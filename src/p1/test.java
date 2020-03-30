@@ -5,5 +5,5 @@ public class test {
         hi x = new hi();
         x.HI("Darren");
     }
-    test1;
+    test123456;
 }
